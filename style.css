@@ -1,0 +1,42 @@
+/* 全域字型與背景 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9; /* 淺灰背景 */
+  color: #333; /* 文字顏色 */
+  margin: 20px;
+  line-height: 1.6;
+}
+
+/* 標題 */
+h1 {
+  color: #0077cc;
+  text-align: center;
+}
+
+h2 {
+  color: #005599;
+  margin-top: 30px;
+}
+
+/* 段落 */
+p {
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+/* 列表 */
+ul {
+  max-width: 600px;
+  margin: 10px auto;
+  padding-left: 20px;
+}
+
+/* 連結 */
+a {
+  color: #ff6600;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
